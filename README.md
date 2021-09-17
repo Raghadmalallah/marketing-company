@@ -13,7 +13,4 @@ The changes does not give any change to the design, I only changed on makeing HT
 4. addeing notes for where the changes was made!
 
 ## Usage
-
-    ```md
-    ![Horiseon webpage](assets/images/webpage-screenshot.jpg)
-    ```
+![screenshot](assets/images/webpage-screenshot.jpg)
