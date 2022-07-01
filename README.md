@@ -14,3 +14,6 @@ The changes does not give any change to the design, I only changed on makeing HT
 
 ## Usage
 ![screenshot](assets/images/webpage-screenshot.jpg)
+
+This site was built using [VSC](https://raghadmalallah.github.io/marketing-company/).
+
