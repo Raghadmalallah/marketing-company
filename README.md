@@ -12,8 +12,10 @@ The changes does not give any change to the design, I only changed on makeing HT
 3. Alt discreption was added to images
 4. addeing notes for where the changes was made!
 
+ visit the website [Horiseon](https://raghadmalallah.github.io/marketing-company/).
+  
 ## Usage
 ![screenshot](assets/images/webpage-screenshot.jpg)
 
-This site was built using [VSC](https://raghadmalallah.github.io/marketing-company/).
+
 
